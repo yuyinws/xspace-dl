@@ -1,0 +1,18 @@
+{
+  "terminal.integrated.profiles.osx": {
+    "zsh clean": {
+      "path": "/bin/zsh",
+      "args": ["-f"]
+    }
+  },
+  "terminal.integrated.defaultProfile.osx": "zsh clean",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
